@@ -139,11 +139,11 @@ katana.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
 katana.Position = UDim2.new(0.187329561, 0, 0.0812274218, 0)
 katana.Size = UDim2.new(0, 101, 0, 31)
 katana.Font = Enum.Font.SourceSans
-katana.Text = "Saitama"
+katana.Text = "Hammer"
 katana.TextColor3 = Color3.fromRGB(0, 0, 0)
 katana.TextSize = 14.000
 katana.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/selecteduseromg343/FE-Saitama/main/README.mda", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/selecteduseromg343/Hammer/main/README.md", true))()
 end)
 
 UICorner_8.Parent = katana
