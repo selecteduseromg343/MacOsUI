@@ -139,11 +139,11 @@ katana.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
 katana.Position = UDim2.new(0.187329561, 0, 0.0812274218, 0)
 katana.Size = UDim2.new(0, 101, 0, 31)
 katana.Font = Enum.Font.SourceSans
-katana.Text = "Hammer"
+katana.Text = "DisasterGui"
 katana.TextColor3 = Color3.fromRGB(0, 0, 0)
 katana.TextSize = 14.000
 katana.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/selecteduseromg343/Hammer/main/README.md", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/9NLK7/93qjoadnlaknwldk/main/main'))()
 end)
 
 UICorner_8.Parent = katana
@@ -154,11 +154,11 @@ gun.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
 gun.Position = UDim2.new(0.182225525, 0, 0.161834031, 0)
 gun.Size = UDim2.new(0, 104, 0, 25)
 gun.Font = Enum.Font.SourceSans
-gun.Text = "Motorcyle"
+gun.Text = "Owl hub"
 gun.TextColor3 = Color3.fromRGB(0, 0, 0)
 gun.TextSize = 14.000
 gun.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/selecteduseromg343/dcxcxx/main/README.md"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
 end)
 
 UICorner_9.Parent = gun
