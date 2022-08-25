@@ -154,11 +154,11 @@ gun.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
 gun.Position = UDim2.new(0.182225525, 0, 0.161834031, 0)
 gun.Size = UDim2.new(0, 104, 0, 25)
 gun.Font = Enum.Font.SourceSans
-gun.Text = "Tank"
+gun.Text = "Motorcyle"
 gun.TextColor3 = Color3.fromRGB(0, 0, 0)
 gun.TextSize = 14.000
 gun.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/selecteduseromg343/sus/main/README.md"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/selecteduseromg343/dcxcxx/main/README.md"))()
 end)
 
 UICorner_9.Parent = gun
