@@ -28,6 +28,8 @@ MainHub.Parent = ScreenGui
 MainHub.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 MainHub.Position = UDim2.new(0.226267874, 0, 0.39538464, 0)
 MainHub.Size = UDim2.new(0, 371, 0, 294)
+MainHub.Active = true
+MainHub.Draggable = true
 
 UICorner.Parent = MainHub
 
